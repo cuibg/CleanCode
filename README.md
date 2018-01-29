@@ -1,3 +1,3 @@
-# My Awesome Book
+# 简介
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+> 本文是根据自己阅读完《Clean Code》这一本书做了一次总结，这里面的东西很多都是摘抄自原书中，建议阅读！

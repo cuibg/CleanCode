@@ -1,0 +1,61 @@
+{
+  "title": "CleanCode读后总结",
+  "author": "睡觉爱做梦",
+  "language": "zh-hans",
+  "links": {
+    "sidebar": {
+      "Cuibg's github": "https://github.com/cuibg"
+    }
+  },
+  "plugins": [
+    "theme-comscore",
+    "-lunr",
+    "-search",
+    "search-plus",
+    "splitter",
+    "-sharing",
+    "sharing-plus",
+    "anchors",
+    "alerts",
+    "copy-code-button",
+    "anchor-navigation-ex"
+  ],
+  "pluginsConfig": {
+    "sharing": {
+      "douban": true,
+      "facebook": false,
+      "google": false,
+      "hatenaBookmark": false,
+      "line": true,
+      "linkedin": true,
+      "messenger": false,
+      "pocket": false,
+      "qq": true,
+      "qzone": true,
+      "stumbleupon": false,
+      "twitter": false,
+      "viber": false,
+      "vk": false,
+      "weibo": true,
+      "whatsapp": false,
+      "all": [
+        "douban",
+        "weibo",
+        "linkedin"
+      ]
+    },
+    "theme-default": {
+      "showLevel": true
+    },
+    "anchor-navigation-ex": {
+      "isRewritePageTitle": true,
+      "isShowTocTitleIcon": true,
+      "tocLevel1Icon": "fa fa-hand-o-right",
+      "tocLevel2Icon": "fa fa-hand-o-right",
+      "tocLevel3Icon": "fa fa-hand-o-right",
+      "associatedWithSummary": false,
+      "multipleH1": false,
+      "showLevel": false
+    }
+  }
+}
