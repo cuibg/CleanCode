@@ -24,3 +24,13 @@
     * [并发处理规范](JavaStandard/Concurrency.md)
     * [异常处理规范](JavaStandard/Exception.md)
 
+* [Android代码整洁](AndroidStandard/AndroidStyle.md)
+    * [Android资源文件命名与使用](AndroidStandard/AndroidFileName.md)
+    * [Android 基本组件](AndroidStandard/AndroidComponent.md)
+    * [UI与布局](AndroidStandard/UIAndLayout.md)
+    * [进程与消息通信](AndroidStandard/Thread.md)
+    * [文件和数据库](AndroidStandard/FileAndDB.md)
+    * [Bitmap、Drawable与动画](AndroidStandard/BitmapAndDrawable.md)
+    * [安全](AndroidStandard/Security.md)
+    * [其他规范](AndroidStandard/Others.md)
+
