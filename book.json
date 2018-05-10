@@ -18,7 +18,8 @@
     "anchors",
     "alerts",
     "copy-code-button",
-    "anchor-navigation-ex"
+    "anchor-navigation-ex",
+    "expandable-chapters-small"
   ],
   "pluginsConfig": {
     "sharing": {
@@ -56,6 +57,7 @@
       "associatedWithSummary": false,
       "multipleH1": false,
       "showLevel": false
-    }
+    },
+    "expandable-chapters-small":{}
   }
 }

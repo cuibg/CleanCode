@@ -23,7 +23,6 @@
     * [注释规范](JavaStandard/Notes.md)
     * [并发处理规范](JavaStandard/Concurrency.md)
     * [异常处理规范](JavaStandard/Exception.md)
-
 * [Android代码整洁](AndroidStandard/AndroidStyle.md)
     * [Android资源文件命名与使用](AndroidStandard/AndroidFileName.md)
     * [Android 基本组件](AndroidStandard/AndroidComponent.md)
